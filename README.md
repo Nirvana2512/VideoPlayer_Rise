@@ -2,20 +2,19 @@
 
 <html>
 <h2>
+  
 Assignment : VideoPlayer (Rise Frontend Specialization).
+  
 </h2>
   <body>
-    <li>
-    jQuery Controls
-Color scheme of the controls can be fully customized
-Full-screen support
-Buffered and Playback Progress
-Volume Control
-######Usage:
+    
+ <li>jQuery Controls</li>
+ <li>Color scheme of the controls can be fully customized</li>
+ <li>Full-screen support</li>
+ <li>Buffered and Playback Progress</li>
+ <li>Volume Control</li></li>
+ <li>Simply replace src in vid.html with src="filename.mp4"</li>
 
-Clone the repository
-Simply replace src in vid.html with src="filename.mp4"
-</li>
     
   </body>
 </html>
